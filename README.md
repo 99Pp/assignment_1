@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/99Pp/assignment_1/actions/workflows/docker-image.yml/badge.svg)](https://github.com/99Pp/assignment_1/actions/workflows/docker-image.yml)
+
 # IIT-Jodhpur Assignment
 
 **About the Project**
